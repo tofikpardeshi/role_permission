@@ -41,7 +41,6 @@ class PostController extends Controller
 
         return view('home', compact(['posts','edit','delete','create']));
 
-
     }
 
     public function createPage()

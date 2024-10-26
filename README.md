@@ -37,6 +37,8 @@
       npm run dev
     ```
 
+4. MySQL file upload in the project
+
 ## Credentials
 
 ### Admin
