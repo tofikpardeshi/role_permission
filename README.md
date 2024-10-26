@@ -108,7 +108,7 @@ ssh root@your_droplet_ip
 
     ```bash
     cd /var/www
-    sudo git clone your_repo_url post-role-permission
+    sudo git clone post-role-permission
     cd post-role-permission
     ```
 
